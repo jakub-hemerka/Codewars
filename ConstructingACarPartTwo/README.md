@@ -37,7 +37,7 @@ In all tests only the whole car will be tested. Feel free to write your own test
 
 Under this text you will find the code of the interfaces.
 
-```
+```cs
 public interface ICar
 {
   bool EngineIsRunning { get; }        
@@ -105,7 +105,7 @@ public interface IFuelTankDisplay
 }
 ```
 These are the new lines in the inital solution:
-```
+```cs
 public class Car : ICar
 {
   public IDrivingInformationDisplay drivingInformationDisplay; // car #2  

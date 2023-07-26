@@ -48,7 +48,7 @@ Remember: Every call of a method (except Refuel :D) from the car correlates to 1
 
 Under this text you will find the code of the interfaces.
 
-```
+```cs
 public interface ICar
 {
     bool EngineIsRunning { get; }        
@@ -202,7 +202,7 @@ public interface IOnBoardComputerDisplay // car #3
 }
 ```
 These are the new lines in the inital solution:
-```
+```cs
 public class Car : ICar
 {
     public IOnBoardComputerDisplay onBoardComputerDisplay; // car #3
