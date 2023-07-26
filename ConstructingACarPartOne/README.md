@@ -24,7 +24,7 @@ In all tests only the whole car will be tested. Feel free to write your own test
 
 Under the text you will find the code of the interfaces.
 
-```
+```cs
 public interface ICar
 {
     bool EngineIsRunning { get; }
