@@ -134,10 +134,9 @@ public static class Kata
             }
 
             string cut = word.Substring(index, pattern.Length);
-            string repl = string.Empty;
-            repl += replacement[0];
+            string repl = $"{replacement[0]}";
 
-            if (char.IsLetter(cut[0]) && char.IsUpper(cut[0]))
+            if (char.IsLetter(repl[0]) && char.IsUpper(cut[0]))
             {
                 repl = repl.ToUpper();
             }
