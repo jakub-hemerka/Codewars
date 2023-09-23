@@ -35,9 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsMix", "StringsMix\St
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatePhoneNumber", "CreatePhoneNumber\CreatePhoneNumber.csproj", "{B20A2F9B-1BA9-4981-A572-2D14D02E31D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistogramVOne", "HistogramVOne\HistogramVOne.csproj", "{8C46655A-3F5A-49CF-BE8A-B32800A421D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HistogramVOne", "HistogramVOne\HistogramVOne.csproj", "{8C46655A-3F5A-49CF-BE8A-B32800A421D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistogramVTwo", "HistogramVTwo\HistogramVTwo.csproj", "{FC9B95A5-6775-4AA7-8D6F-07E39D642209}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HistogramVTwo", "HistogramVTwo\HistogramVTwo.csproj", "{FC9B95A5-6775-4AA7-8D6F-07E39D642209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramCalculatorPartOne", "ProgramCalculatorPartOne\ProgramCalculatorPartOne.csproj", "{609CB746-A4B8-4BDC-B257-4B25F434B926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramCalculatorPartTwo", "ProgramCalculatorPartTwo\ProgramCalculatorPartTwo.csproj", "{545713B0-4F7F-48BF-9F32-9D474103B97C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{FC9B95A5-6775-4AA7-8D6F-07E39D642209}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC9B95A5-6775-4AA7-8D6F-07E39D642209}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC9B95A5-6775-4AA7-8D6F-07E39D642209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609CB746-A4B8-4BDC-B257-4B25F434B926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609CB746-A4B8-4BDC-B257-4B25F434B926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609CB746-A4B8-4BDC-B257-4B25F434B926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609CB746-A4B8-4BDC-B257-4B25F434B926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545713B0-4F7F-48BF-9F32-9D474103B97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545713B0-4F7F-48BF-9F32-9D474103B97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545713B0-4F7F-48BF-9F32-9D474103B97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545713B0-4F7F-48BF-9F32-9D474103B97C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
