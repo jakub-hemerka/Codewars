@@ -39,9 +39,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HistogramVOne", "HistogramV
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HistogramVTwo", "HistogramVTwo\HistogramVTwo.csproj", "{FC9B95A5-6775-4AA7-8D6F-07E39D642209}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramCalculatorPartOne", "ProgramCalculatorPartOne\ProgramCalculatorPartOne.csproj", "{609CB746-A4B8-4BDC-B257-4B25F434B926}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramCalculatorPartOne", "ProgramCalculatorPartOne\ProgramCalculatorPartOne.csproj", "{609CB746-A4B8-4BDC-B257-4B25F434B926}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramCalculatorPartTwo", "ProgramCalculatorPartTwo\ProgramCalculatorPartTwo.csproj", "{545713B0-4F7F-48BF-9F32-9D474103B97C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramCalculatorPartTwo", "ProgramCalculatorPartTwo\ProgramCalculatorPartTwo.csproj", "{545713B0-4F7F-48BF-9F32-9D474103B97C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaginationHelper", "PaginationHelper\PaginationHelper.csproj", "{75E7D7AC-C989-48A0-9F9F-739BD7360261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankingSystem", "RankingSystem\RankingSystem.csproj", "{017871EA-AAFC-43D1-BBF5-421D40EA378E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{545713B0-4F7F-48BF-9F32-9D474103B97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{545713B0-4F7F-48BF-9F32-9D474103B97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{545713B0-4F7F-48BF-9F32-9D474103B97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E7D7AC-C989-48A0-9F9F-739BD7360261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E7D7AC-C989-48A0-9F9F-739BD7360261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E7D7AC-C989-48A0-9F9F-739BD7360261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E7D7AC-C989-48A0-9F9F-739BD7360261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017871EA-AAFC-43D1-BBF5-421D40EA378E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017871EA-AAFC-43D1-BBF5-421D40EA378E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017871EA-AAFC-43D1-BBF5-421D40EA378E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017871EA-AAFC-43D1-BBF5-421D40EA378E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
