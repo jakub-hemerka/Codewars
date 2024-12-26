@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaginationHelper", "Paginat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RankingSystem", "RankingSystem\RankingSystem.csproj", "{017871EA-AAFC-43D1-BBF5-421D40EA378E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAlignJustify", "TextAlignJustify\TextAlignJustify.csproj", "{027A6DCD-ED01-49BD-B141-562E4CDFE01C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextAlignJustify", "TextAlignJustify\TextAlignJustify.csproj", "{027A6DCD-ED01-49BD-B141-562E4CDFE01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerTowerModulo", "PowerTowerModulo\PowerTowerModulo.csproj", "{66DA1A45-21B9-465D-8F41-AA18BF969116}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{027A6DCD-ED01-49BD-B141-562E4CDFE01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{027A6DCD-ED01-49BD-B141-562E4CDFE01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{027A6DCD-ED01-49BD-B141-562E4CDFE01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66DA1A45-21B9-465D-8F41-AA18BF969116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DA1A45-21B9-465D-8F41-AA18BF969116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DA1A45-21B9-465D-8F41-AA18BF969116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DA1A45-21B9-465D-8F41-AA18BF969116}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
