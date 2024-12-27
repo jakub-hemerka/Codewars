@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hi there!");
+﻿Console.WriteLine("Where the hell do I even start?");

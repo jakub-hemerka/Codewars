@@ -5,9 +5,6 @@ IList<char> collection = new List<char> { 'a', 'b', 'c', 'd', 'e', 'f' };
 
 PaginationHelper<char> helper = new(collection, 4);
 
-
-delegate ResultCallBack<int response>;
-
 Console.WriteLine(helper.ItemCount);
 Console.WriteLine(helper.PageCount);
 Console.WriteLine(helper.PageItemCount(0));
